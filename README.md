@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on AI for Computer Vision applications
+- 📫 How to reach me: k.cibaca@gmail.com
+
